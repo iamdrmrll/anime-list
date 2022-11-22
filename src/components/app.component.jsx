@@ -21,7 +21,7 @@ const AppComponent = () => {
 					<Routes>
 						<Route
 							exact
-							path="/"
+							path="/anime-list"
 							element={<HomeComponent setAnimeId={setAnimeId} />}
 						></Route>
 						<Route

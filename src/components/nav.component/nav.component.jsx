@@ -18,7 +18,11 @@ const NavComponent = (props) => {
 			>
 				<Container fluid>
 					<div className="col-lg-4">
-						<Navbar.Brand as={Link} to="/" className="nav_title">
+						<Navbar.Brand
+							as={Link}
+							to="/anime-list"
+							className="nav_title"
+						>
 							<strong className="text-primary">Anime</strong>
 							List
 						</Navbar.Brand>
