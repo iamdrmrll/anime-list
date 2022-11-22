@@ -97,7 +97,7 @@ const AnimePageComponent = (props) => {
 							<Breadcrumb>
 								<Breadcrumb.Item
 									linkAs={Link}
-									linkProps={{ to: "/" }}
+									linkProps={{ to: "/anime-list" }}
 								>
 									Home
 								</Breadcrumb.Item>
