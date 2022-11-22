@@ -1,0 +1,21 @@
+h6.anime_title {
+	position: absolute;
+	bottom: 0;
+	margin-bottom: 0;
+	text-align: center;
+	color: var(--black);
+	padding: 1rem;
+	background-color: rgba(var(--bs-primary-rgb), 0.6);
+	backdrop-filter: blur(10px);
+	width: 100%;
+	border-top-left-radius: 0 !important;
+	border-top-right-radius: 0 !important;
+}
+.fYryGV {
+	padding-bottom: 1rem !important;
+	margin-bottom: 0 !important;
+}
+#item,
+#item img {
+	height: 100%;
+}
