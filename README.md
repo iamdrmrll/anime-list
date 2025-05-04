@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+## Github Pages Link: [Anime List] (https://iamdrmrll.github.io/anime-list)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
